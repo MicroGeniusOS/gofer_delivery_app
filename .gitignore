@@ -102,3 +102,16 @@ dist
 
 # TernJS port file
 .tern-port
+
+
+#custom
+android/app/build/outputs/apk
+android/app/build/outputs/logs
+android/app/src/main/assets/
+android/app/build/intermediates/
+android/.gradle/6.5/executionHistory
+android/.gradle/6.5/executionHistory/executionHistory.bin 
+
+
+ios/build
+ios/Pods
