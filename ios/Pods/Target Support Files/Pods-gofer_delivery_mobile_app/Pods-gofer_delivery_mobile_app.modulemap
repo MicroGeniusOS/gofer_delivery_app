@@ -1,0 +1,6 @@
+module Pods_gofer_delivery_mobile_app {
+  umbrella header "Pods-gofer_delivery_mobile_app-umbrella.h"
+
+  export *
+  module * { export * }
+}
